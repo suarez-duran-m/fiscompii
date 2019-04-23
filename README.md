@@ -26,3 +26,10 @@ Introducción; Ensamble micro-canonico; Algoritmo de Demon; Demon como termometr
 Dimensión fractal; Fractales regulares; Procesos de crecimiento cinético; Fractales y caos
 
 ### [Proyecto final](clases/)
+
+## Bibliografía
+* Computational Physics, Mark Newman, 2013, University of Michigan
+* Computational Physics, Problem Solving with Computers, Rubin H. Landau, Manuel J. Paez, 2013.
+* Introductory Computational Physics, Klein, A., Godunov, G., Cambridge University Press, 2006
+*  An introduction to computer simulation methods Applications to physical systems, Gould, H., Tobochnik, J., Wolfgang, C., Addison Wesley, 2007.
+  
